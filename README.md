@@ -147,27 +147,6 @@ plt.show()
 - **Feature Correlation**: High correlation between some features required removal
 - **Preprocessing Impact**: Normalization significantly improved model performance
 
-## 📁 Project Structure
-
-```
-cyber-attack-prediction/
-│
-├── cyber_attack_analysis.py    # Main analysis script
-├── CyberAttack_Dataset         # Dataset file
-├── best_model3.hdf5           # Saved neural network model
-├── requirements.txt           # Python dependencies
-├── README.md                 # Project documentation
-│
-├── visualizations/           # Generated plots and charts
-│   ├── correlation_heatmap.png
-│   ├── feature_histograms.png
-│   └── model_comparison.png
-│
-└── models/                   # Saved model files
-    ├── random_forest_model.pkl
-    ├── svm_model.pkl
-    └── knn_model.pkl
-```
 
 ## 📦 Requirements
 
