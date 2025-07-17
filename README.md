@@ -181,24 +181,3 @@ matplotlib>=3.5.0
 seaborn>=0.11.0
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-### Development Setup:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Areas for Improvement:
-- Handle class imbalance using SMOTE or other techniques
-- Implement ensemble methods combining multiple models
-- Add real-time prediction capabilities
-- Enhance feature engineering with domain knowledge
-- Add model explainability features
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
